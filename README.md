@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Olanrewaju, a software engineer and web developer. I love building and shipping apps that scale.
 I'm also a data scientist, leveraging the power data to build meaningful and impactful products.
-I'm constantly learning and open to collaborations! free to reach out if you want to connect!
+I'm constantly learning and open to collaborations! feel free to reach out if you want to connect!
 here's my gmail: lanretobiloba@gmail.com
 <!--
 **lilanrex/lilanrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
