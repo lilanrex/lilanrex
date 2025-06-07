@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Olanrewaju, a software engineer and web developer. I love building and shipping apps that scale.
-I'm also a data scientist, leveraging the power of data to build meaningful and impactful products.
+I'm also a data scientist, leveraging the power of data and AI to build meaningful and impactful products.
 I'm constantly learning and open to collaborations! feel free to reach out if you want to connect!
 here's my gmail: lanretobiloba@gmail.com
 <!--
@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 
 Languages and tools:
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,gcp,github,linux,py,rust,solidity,nodejs,expressjs&perline=4)](https://skillicons.dev)
