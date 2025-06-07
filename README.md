@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 Languages and tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gcp,github,linux,py,rust,solidity,nodejs,mongo,mySQL,SQL,expressjs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,gcp,github,linux,py,rust,solidity,nodejs,mongo,mysql,redis,firebase,expressjs&perline=4)](https://skillicons.dev)
